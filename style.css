@@ -1,0 +1,77 @@
+.form{
+    display: flex;
+    text-align: center;
+    padding-left: 260px;
+    padding-top: 65px;
+    overflow: hidden;
+}
+.first_box{
+    background-color: rgb(19, 172, 186);
+    color: white;
+    width: 35%;
+    height: 60%;
+    padding: 3px 2px 185px 2px;
+    border-radius: 5px;
+    padding-top: 100px;
+   
+}
+.second_box{
+    background-color: aliceblue;
+width: 35%;
+height: 60%;
+padding: 3px 2px 20px 2px;
+border-radius: 5px;
+}
+
+.required{
+padding-right: 300px;
+}
+
+.bod{
+    background: rgb(36,0,33);
+background: linear-gradient(90deg, rgba(36,0,33,1) 1%, rgba(190,11,189,1) 36%, rgba(226,83,163,1) 74%, rgba(0,212,255,1) 100%);
+}
+.forum{
+    padding-right: 220px;
+    color: rgb(201, 12, 28);
+}
+.mes{
+    color: rgb(201, 12, 28) ;
+    padding-left: 7x;
+    padding-top: 6px;
+    background-color: (255, 255, 255);
+}
+.submit{
+    background-color: rgb(216, 17, 17);
+    color: rgb(255, 255, 255);
+    font-style: serif;
+    border-radius: 5px;
+    border: 2px solid rgb(201, 51, 126);
+    padding: 5px 12px;
+    margin: 2px;
+    }
+.submit:hover{
+    background-color: white;
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+    }
+    .sub{
+        padding-left: 220px;
+    }
+
+    .return{
+     background-color: rgb(216, 17, 17);
+        color: rgb(255, 253, 253);
+        font-style: serif;
+        border-radius: 5px;
+        border: 2px solid rgb(201, 51, 126);
+        padding: 5px 12px;
+        }
+    .return:hover{
+    background-color: white;
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+}
+
